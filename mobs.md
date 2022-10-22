@@ -12,6 +12,8 @@
     <ul>
       <li><a href="./README.md">Home</a></li>
       <li><a href="./bamboo.md">Bamboo</a></li>
+      <li><a href="./camels.md">Camels</a></li>
+      <li><a href="./signs.md">Signs</a></li>
     </ul>
   </body> 
       
