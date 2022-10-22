@@ -25,11 +25,11 @@
     <p>Click this to reveal my favorite color!</p>
     <button type="button" onclick="favoriteColor()">Favorite Color</button>
     <p id="color"></p>
-    <script>
-      function favoriteColor() {
-  document.getElementById("color").innerHTML = "Green";
-}
-    </script>
+        <script>
+        function favoriteColor() {
+        document.getElementById("color").innerHTML = "Green";
+        }
+        </script>
     <br>
     <h3>The guide:</h3>
     <ul>
