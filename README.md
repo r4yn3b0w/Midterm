@@ -35,7 +35,6 @@
       <li><a href="./bamboo.md">Bamboo</a></li>
       <li><a href="./camels.md">Camels</a></li>
       <li><a href="./signs.md">Signs</a></li>
-      <li><a href="./books.md">Bookshelves</li>
     </ul>  
   </body>
 
