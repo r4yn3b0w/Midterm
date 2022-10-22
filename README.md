@@ -33,11 +33,11 @@
     <br>
     <h3>The guide:</h3>
     <ul>
-      <li><a href="./mobs.html">Mob Vote 2022</a></li>
-      <li><a href="./bamboo.html">Bamboo</a></li>
-      <li><a href="./camels.html">Camels</a></li>
-      <li><a href="./signs.html">Signs</a></li>
-      <li><a href="./books.html">Bookshelves</li>
+      <li><a href="./mobs.md">Mob Vote 2022</a></li>
+      <li><a href="./bamboo.md">Bamboo</a></li>
+      <li><a href="./camels.md">Camels</a></li>
+      <li><a href="./signs.md">Signs</a></li>
+      <li><a href="./books.md">Bookshelves</li>
     </ul>  
   </body>
 
