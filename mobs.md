@@ -9,6 +9,10 @@
     <br>
     <p>This year, Minecraft hosted another Mob Vote, where players are given the option to choose which mob, out of three, should be added to the game. The <b>Sniffer</b> won this year! It digs up ancient seeds so you can grow really cool old plants/</p>
     <img src="./7ERDMUiZRf7iW8HfnFnQvU.jpg"/>
+    <ul>
+      <li><a href="./README.md">Home</a></li>
+      <li><a href="./bamboo.md">Bamboo</a></li>
+    </ul>
   </body> 
       
 </html>
