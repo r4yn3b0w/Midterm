@@ -12,6 +12,8 @@
     <img src="https://pbs.twimg.com/media/FfID4KaaEAA72Vr?format=jpg&name=large"/>
     <ul>
       <li><a href="./mobs.md">Mob Vote 2022</a></li>
+      <li><a href="./camels.md">Camels</a></li>
+      <li><a href="./signs.md">Signs</a></li>
       <li><a href="./README.md">Home</a></li>
     </ul>
 
