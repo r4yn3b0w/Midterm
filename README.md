@@ -39,6 +39,19 @@
       <li><a href="./signs.md">Signs</a></li>
       <li><a href="./books.md">Bookshelves</li>
     </ul>  
+    
+    <script>
+
+function fizzbuzz() {
+	var display = document.getElementById('display');
+	var displayHTML = "";
+	for (i = 0; i < 100; i++) {
+		displayHTML += "<p>" + i + "</p>";
+	}
+	display.innerHTML = displayHTML;
+}
+
+</script>
   </body>
 
 </html>
