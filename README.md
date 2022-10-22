@@ -22,9 +22,7 @@
       <li>And more!</li>
     </ul>  
     <br>
-    <p>Click this to reveal my favorite color!</p>
-    <button type="button" onclick="favoriteColor()">Favorite Color</button>
-    <p id="color"></p>
+    <p>Here's a function to get my favorite color:</p>
         <code>
         function favoriteColor() {
         document.getElementById("color").innerHTML = "Green";
